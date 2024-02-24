@@ -1,0 +1,10 @@
+C:\Users\Laboratorio-Info\source\repos\EmpresaABC\projetoLojaABC\bin\Debug\projetoLojaABC.exe.config
+C:\Users\Laboratorio-Info\source\repos\EmpresaABC\projetoLojaABC\bin\Debug\projetoLojaABC.exe
+C:\Users\Laboratorio-Info\source\repos\EmpresaABC\projetoLojaABC\bin\Debug\projetoLojaABC.pdb
+C:\Users\Laboratorio-Info\source\repos\EmpresaABC\projetoLojaABC\obj\Debug\projetoLojaABC.csproj.AssemblyReference.cache
+C:\Users\Laboratorio-Info\source\repos\EmpresaABC\projetoLojaABC\obj\Debug\projetoLojaABC.frmSplash.resources
+C:\Users\Laboratorio-Info\source\repos\EmpresaABC\projetoLojaABC\obj\Debug\projetoLojaABC.Properties.Resources.resources
+C:\Users\Laboratorio-Info\source\repos\EmpresaABC\projetoLojaABC\obj\Debug\projetoLojaABC.csproj.GenerateResource.cache
+C:\Users\Laboratorio-Info\source\repos\EmpresaABC\projetoLojaABC\obj\Debug\projetoLojaABC.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio-Info\source\repos\EmpresaABC\projetoLojaABC\obj\Debug\projetoLojaABC.exe
+C:\Users\Laboratorio-Info\source\repos\EmpresaABC\projetoLojaABC\obj\Debug\projetoLojaABC.pdb
