@@ -8,3 +8,4 @@ C:\Users\Laboratorio-Info\source\repos\EmpresaABC\projetoLojaABC\obj\Debug\proje
 C:\Users\Laboratorio-Info\source\repos\EmpresaABC\projetoLojaABC\obj\Debug\projetoLojaABC.csproj.CoreCompileInputs.cache
 C:\Users\Laboratorio-Info\source\repos\EmpresaABC\projetoLojaABC\obj\Debug\projetoLojaABC.exe
 C:\Users\Laboratorio-Info\source\repos\EmpresaABC\projetoLojaABC\obj\Debug\projetoLojaABC.pdb
+C:\Users\Laboratorio-Info\source\repos\EmpresaABC\projetoLojaABC\obj\Debug\projetoLojaABC.frmLogin.resources
