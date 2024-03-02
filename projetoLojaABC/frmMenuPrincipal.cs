@@ -16,5 +16,40 @@ namespace projetoLojaABC
         {
             InitializeComponent();
         }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnClientes_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnVendas_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnFuncionarios_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnProdutos_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnUsuarios_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
