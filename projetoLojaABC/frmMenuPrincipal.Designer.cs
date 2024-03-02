@@ -61,6 +61,8 @@ namespace projetoLojaABC
             this.btnFornecedores.Size = new System.Drawing.Size(217, 231);
             this.btnFornecedores.TabIndex = 1;
             this.btnFornecedores.Text = "Fornecedores";
+            this.btnFornecedores.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.btnFornecedores.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.btnFornecedores.UseVisualStyleBackColor = true;
             this.btnFornecedores.Click += new System.EventHandler(this.button2_Click);
             // 
@@ -72,6 +74,8 @@ namespace projetoLojaABC
             this.btnFuncionarios.Size = new System.Drawing.Size(217, 231);
             this.btnFuncionarios.TabIndex = 2;
             this.btnFuncionarios.Text = "Funcionários";
+            this.btnFuncionarios.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.btnFuncionarios.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.btnFuncionarios.UseVisualStyleBackColor = true;
             this.btnFuncionarios.Click += new System.EventHandler(this.btnFuncionarios_Click);
             // 
@@ -83,6 +87,8 @@ namespace projetoLojaABC
             this.btnProdutos.Size = new System.Drawing.Size(217, 231);
             this.btnProdutos.TabIndex = 3;
             this.btnProdutos.Text = "Produtos";
+            this.btnProdutos.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.btnProdutos.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.btnProdutos.UseVisualStyleBackColor = true;
             this.btnProdutos.Click += new System.EventHandler(this.btnProdutos_Click);
             // 
@@ -94,6 +100,8 @@ namespace projetoLojaABC
             this.btnUsuarios.Size = new System.Drawing.Size(217, 231);
             this.btnUsuarios.TabIndex = 4;
             this.btnUsuarios.Text = "Usuários";
+            this.btnUsuarios.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.btnUsuarios.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.btnUsuarios.UseVisualStyleBackColor = true;
             this.btnUsuarios.Click += new System.EventHandler(this.btnUsuarios_Click);
             // 
@@ -105,6 +113,8 @@ namespace projetoLojaABC
             this.btnVendas.Size = new System.Drawing.Size(217, 231);
             this.btnVendas.TabIndex = 5;
             this.btnVendas.Text = "Vendas";
+            this.btnVendas.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.btnVendas.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.btnVendas.UseVisualStyleBackColor = true;
             this.btnVendas.Click += new System.EventHandler(this.btnVendas_Click);
             // 
